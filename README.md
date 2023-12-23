@@ -39,6 +39,6 @@ npm run open
 npm run cypress:run
 ```
 ---
-![picture alt](./images/testresults.png "Resultados de teste")
+![picture alt](./images/testresults.PNG "Resultados de teste")
 
 [Licença MIT](/LICENSE)
