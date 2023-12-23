@@ -42,3 +42,7 @@ npm run cypress:run
 ![picture alt](./images/testresults.PNG "Resultados de teste")
 
 [Licença MIT](/LICENSE)
+
+### Mapa mental da solução
+![picture alt](./images/image.png "Resultados de teste")
+
