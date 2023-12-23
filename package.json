@@ -4,13 +4,16 @@
   "description": "Desafio de automação com cypress no trello",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:run": "cypress run",
     "open": "cypress open"
-    },
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1"
   }
 }
